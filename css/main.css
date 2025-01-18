@@ -102,3 +102,36 @@ main {
 .project-card p {
   margin: 10px;
 }
+
+/* .experience-item {
+  background-color: var(--color-quaternary);
+  padding: 10px;
+  border-radius: 5px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border: 1px #555 solid;
+} */
+
+.experience-item {
+  background-color: var(--color-quaternary);
+  padding: 10px;
+  border-radius: 5px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border: 1px #555 solid;
+}
+
+.sub-experience {
+  margin-left: 1.5rem;
+  padding-left: 1rem;
+  margin-top: 1rem;
+}
+
+.experience-item li {
+  margin: 10px;
+  margin-left: 30px;
+}
+
+.experience-item p {
+  margin: 10px;
+}
